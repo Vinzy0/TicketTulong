@@ -1,0 +1,13 @@
+# Python isolated environment
+venv/
+.venv/
+
+# Environment secrets
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local database (if you use SQLite later)
+*.sqlite3
